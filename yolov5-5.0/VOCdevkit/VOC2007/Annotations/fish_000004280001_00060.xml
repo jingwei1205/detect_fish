@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>fish_000004280001_00060.png</filename>
+	<path>D:\jingwei\GraduateStudent\神经网络\pytorch\VOC\JPEGImages\fish_000004280001_00060.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>70</width>
+		<height>88</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>19</ymin>
+			<xmax>56</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
